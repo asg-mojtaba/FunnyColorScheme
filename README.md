@@ -1,12 +1,14 @@
 # Funny color scheme
 
+![java screenshot](https://raw.githubusercontent.com/asg-mojtaba/FunnyColorScheme/master/screenshots/01.png)
+
 ##Usage
 1. Clone project
 
 2. Copy `Funny.icls` to IntelliJ IDEA/Android Studio colors folder
-  - Linux : ~/.AndroidStudio[....]/config/colors
-  - Windows : Documents and Settings/<user>/.AndroidStudio[....]/config/colors
-  - Mac :  ~/Library/Preferences/AndroidStudio[....]/config/colors
+  - Linux : `~/.AndroidStudio[....]/config/colors`
+  - Windows : `Documents and Settings/<user>/.AndroidStudio[....]/config/colors`
+  - Mac :  `~/Library/Preferences/AndroidStudio[....]/config/colors`
 
 3. Restart IntelliJ IDEA/Android Studio
 
